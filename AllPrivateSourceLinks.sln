@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllPrivateSourceLinks", "AllPrivateSourceLinks\AllPrivateSourceLinks.csproj", "{286851B1-95AC-42EF-9199-DA58EF5ED597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubPrivate", "GitHubPrivate\GitHubPrivate.csproj", "{A4766F98-E6B6-41E7-9567-1BE95825DAA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitBucketPrivate", "BitBucketPrivate\BitBucketPrivate.csproj", "{9AB24B41-4ECA-4D55-94E6-8796C762CA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{286851B1-95AC-42EF-9199-DA58EF5ED597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286851B1-95AC-42EF-9199-DA58EF5ED597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286851B1-95AC-42EF-9199-DA58EF5ED597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286851B1-95AC-42EF-9199-DA58EF5ED597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4766F98-E6B6-41E7-9567-1BE95825DAA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4766F98-E6B6-41E7-9567-1BE95825DAA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4766F98-E6B6-41E7-9567-1BE95825DAA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4766F98-E6B6-41E7-9567-1BE95825DAA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB24B41-4ECA-4D55-94E6-8796C762CA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB24B41-4ECA-4D55-94E6-8796C762CA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB24B41-4ECA-4D55-94E6-8796C762CA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB24B41-4ECA-4D55-94E6-8796C762CA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
