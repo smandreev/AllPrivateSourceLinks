@@ -9,9 +9,6 @@
       <Reference Include="BBSLProgam, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
         <HintPath>resources\BBSLProgam.dll</HintPath>
       </Reference>
-      <Reference Include="SLProgam, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-        <HintPath>resources\SLProgam.dll</HintPath>
-      </Reference>
     </ItemGroup>
 
 </Project>

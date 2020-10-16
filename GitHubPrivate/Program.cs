@@ -10,6 +10,7 @@ namespace GitHubPrivate
             Console.WriteLine("Hello World!11");
             Console.Write(SLProgam.bitmapser.bitmapXML);
             Console.WriteLine("Hello World!111");
+            
         }
     }
 }
